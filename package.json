@@ -1,0 +1,13 @@
+{
+  "name": "scrollleft",
+  "version": "1.0.0",
+  "description": "Get the window's scrollLeft value, cross-browser.",
+  "main": "index.js",
+  "keywords": [
+    "scrollLeft",
+    "scrollTop",
+    "scroll"
+  ],
+  "author": "Scott Corgan",
+  "license": "MIT"
+}
