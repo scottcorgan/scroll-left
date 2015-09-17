@@ -1,5 +1,5 @@
 {
-  "name": "scrollleft",
+  "name": "scroll-left",
   "version": "1.0.0",
   "description": "Get the window's scrollLeft value, cross-browser.",
   "main": "index.js",
@@ -9,5 +9,16 @@
     "scroll"
   ],
   "author": "Scott Corgan",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottcorgan/scroll-left.git"
+  },
+  "bugs": {
+    "url": "https://github.com/scottcorgan/scroll-left/issues"
+  },
+  "homepage": "https://github.com/scottcorgan/scroll-left#readme"
 }
